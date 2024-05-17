@@ -63,8 +63,8 @@
 			children = (
 				6EC5DEFB2BF14F8600DE78D1 /* Util */,
 				6EC5DEF62BF14CE000DE78D1 /* Model */,
-				6EB3C3E22BA48A26001BB962 /* View */,
 				6EB3C3E12BA48A0C001BB962 /* ViewModel */,
+				6EF9DB352BF824D600E28170 /* View */,
 				6EB3C3D32BA489FD001BB962 /* CalculatorSwiftUIApp.swift */,
 				6EB3C3D72BA48A01001BB962 /* Assets.xcassets */,
 				6EB3C3D92BA48A01001BB962 /* Preview Content */,
@@ -88,15 +88,6 @@
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
-		6EB3C3E22BA48A26001BB962 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				6EB3C3D52BA489FD001BB962 /* ContentView.swift */,
-				6EC5DEFE2BF159E800DE78D1 /* VerticalButtonStack.swift */,
-			);
-			name = View;
-			sourceTree = "<group>";
-		};
 		6EC5DEF62BF14CE000DE78D1 /* Model */ = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +103,15 @@
 				6EC5DEFC2BF1511500DE78D1 /* Matrix.swift */,
 			);
 			path = Util;
+			sourceTree = "<group>";
+		};
+		6EF9DB352BF824D600E28170 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6EB3C3D52BA489FD001BB962 /* ContentView.swift */,
+				6EC5DEFE2BF159E800DE78D1 /* VerticalButtonStack.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
