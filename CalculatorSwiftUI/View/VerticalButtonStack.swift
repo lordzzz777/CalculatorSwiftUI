@@ -53,18 +53,5 @@ struct VerticalButtonStack: View {
     }
 }
 
-//#Preview {
-//    @State var viewModel = ViewModel()
-//    Group{
-//        VerticalButtonStack(viewModel: $viewModel,
-//                            data: Matrix.firstSectionData, columns: Matrix.firstSectionGrid(390 * 0.25), width: 390)
-//  
-//        VerticalButtonStack(
-//                            data: Matrix.secondSectionData,
-//                            columns: Matrix.secondSectionGrid(390 * 0.25),
-//                            width: 390)
-//    }
-//
-//}
 
 

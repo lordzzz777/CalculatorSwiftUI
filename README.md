@@ -2,6 +2,8 @@
 
 Este proyecto es una réplica de la calculadora estándar de iOS, diseñada para funcionar de manera similar y ofrecer una experiencia familiar a los usuarios de dispositivos iOS.
 
+![calculadora](https://github.com/lordzzz777/CalculatorSwiftUI/assets/114311106/2693b1e1-821c-4d4c-91d7-abf7a2da79a5)
+
 ## Funcionalidades
 
 - Operaciones básicas: Suma, resta, multiplicación y división.
